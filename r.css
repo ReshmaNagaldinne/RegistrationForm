@@ -1,0 +1,13 @@
+body {
+        background-color: rgb(61, 179, 209)
+    }
+h1 {
+    color:rgba(4, 73, 64, 0.966);
+    text-align:center;
+    }
+form {
+    background-color: whitesmoke;
+    margin:auto;
+    max-width: 500px;
+    padding: 30px 20px;
+    }
