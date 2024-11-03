@@ -9,3 +9,4 @@ Key Features:
   ->Responsive design that adapts to various screen sizes.
   ->Validation for user input fields.
   ->Clear and intuitive layout.
+Output link of the above code - https://reshmanagaldinne.github.io/RegistrationForm/
